@@ -21,6 +21,7 @@ MYWARE - Warehousing & Logistics Marketplace
    Any service you add, quote you send, order you place or status you
    update is saved automatically in your browser.
 
-5. PYTHON SERVER (OPTIONAL):
-   To run with the backend server, click start.bat
-   start.bat -> http://localhost:8000
+5. BACKEND SERVER (NODE.JS):
+   To run with the backend server:
+   - Run `node server.js` or `npm start`
+   - Visit http://localhost:8000

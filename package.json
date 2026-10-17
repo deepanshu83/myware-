@@ -1,0 +1,15 @@
+{
+  "name": "myware",
+  "version": "1.0.0",
+  "description": "MYWARE - Warehousing & Logistics Platform Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "warehouse",
+    "logistics"
+  ],
+  "author": "",
+  "license": "ISC"
+}
